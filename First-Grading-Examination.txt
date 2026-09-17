@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        body { 
+            font-family: Arial;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+    </style>
+</head>
+<body>
+
+    <img src="imgres (1)" alt="Profile">
+    <h1>Reddick Muscara</h1>
+    <p>Click the links below:</p>  
+        
+    <a href="https://facebook.com">This is my Facebook</a>
+    <a href="https://youtube.com">Follow me on my YouTube</a>
+    <a href="https://tiktok.com">Follow me on TikTok</a>
+    <a href="https://x.com"> my X Account </a>
+    <a href=""> My Linkedin Account </a>
+
+</body>
+</html>
+
